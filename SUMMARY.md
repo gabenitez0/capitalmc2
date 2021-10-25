@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Bienvenidos a la Guía](README.md)
+* [Bienvenidos](README.md)
+* [Redes Sociales](redes-sociales.md)
 * [Roadmap](roadmap.md)
 * [Tienda](tienda.md)
 

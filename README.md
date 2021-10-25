@@ -4,24 +4,8 @@ description: >-
   servidor en detalle junto con sus comandos.
 ---
 
-# Bienvenidos a la Guía
+# Bienvenidos
 
-### ¿Cómo Empezar en AtlantisMC?
+### ¿Cómo Empezar en CapitalMC 2?
 
-{% embed url="https://www.youtube.com/watch?v=o1aSGifxkk4" %}
-
-### Redes sociales
-
-{% tabs %}
-{% tab title="Discord" %}
-{% embed url="https://discord.gg/RdmbdNG6FV" %}
-
-
-{% endtab %}
-
-{% tab title="Youtube" %}
-{% embed url="https://www.youtube.com/channel/UCmDf0WYePsMx-5q6XlQpdNQ" %}
-
-
-{% endtab %}
-{% endtabs %}
+{% embed url="https://youtu.be/0-W5kO820Lk" %}
