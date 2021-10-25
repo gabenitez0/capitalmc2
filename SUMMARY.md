@@ -8,6 +8,7 @@
 ## Guía
 
 * [Ciudades](guia/ciudades/README.md)
+  * [ALCALDE](guia/ciudades/alcalde.md)
   * [Culturas](guia/ciudades/culturas.md)
   * [Guerras y Conquistas](guia/ciudades/guerra-de-ciudades.md)
 * [Mercado](guia/mercado.md)
