@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Bienvenidos](README.md)
-* [Redes Sociales](redes-sociales.md)
-* [Roadmap](roadmap.md)
-* [Tienda](tienda.md)
+* [😄 Bienvenidos](README.md)
+* [👋 Redes Sociales](redes-sociales.md)
+* [🛣 Roadmap](roadmap.md)
+* [🌟 Tienda Online](tienda.md)
 
 ## Guía
 
-* [Ciudades](guia/ciudades/README.md)
+* [🏛 Ciudades / Towny](guia/ciudades/README.md)
   * [ALCALDE](guia/ciudades/alcalde.md)
   * [Culturas](guia/ciudades/culturas.md)
   * [Guerras y Conquistas](guia/ciudades/guerra-de-ciudades.md)

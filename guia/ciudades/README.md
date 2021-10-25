@@ -2,7 +2,7 @@
 description: Aprende todo sobre cómo funcionan las ciudades.
 ---
 
-# Ciudades
+# 🏛 Ciudades / Towny
 
 {% content-ref url="alcalde.md" %}
 [alcalde.md](alcalde.md)
