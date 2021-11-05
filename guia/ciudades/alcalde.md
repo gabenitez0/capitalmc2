@@ -1,11 +1,8 @@
 ---
 description: Guía INICIAL para ALCALDES
-cover: >-
-  https://images.unsplash.com/photo-1524685794168-52985e79c1f8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxtaW5lY3JhZnR8ZW58MHx8fHwxNjM1MTQ4OTEw&ixlib=rb-1.2.1&q=85
-coverY: 0
 ---
 
-# ALCALDE
+# Guía Inicial
 
 {% embed url="https://www.youtube.com/watch?v=tgxJj5IxTzk" %}
 Guía INICIAL para ALCALDES

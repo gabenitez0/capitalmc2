@@ -9,7 +9,7 @@
 
 * [🏛 Ciudades / Towny](guia/ciudades/README.md)
   * [🤴 Guía para Alcaldes](guia/ciudades/guia-para-alcaldes/README.md)
-    * [Guía Inicial](guia/ciudades/guia-para-alcaldes/alcalde.md)
+    * [Guía Inicial](guia/ciudades/alcalde.md)
     * [Precios](guia/ciudades/guia-para-alcaldes/precios.md)
     * [Comandos Básicos](guia/ciudades/guia-para-alcaldes/comandos-basicos.md)
     * [Rangos](guia/ciudades/guia-para-alcaldes/rangos.md)

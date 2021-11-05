@@ -12,8 +12,8 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 [ciudades](guia/ciudades/)
 {% endcontent-ref %}
 
-{% content-ref url="guia/ciudades/guia-para-alcaldes/alcalde.md" %}
-[alcalde.md](guia/ciudades/guia-para-alcaldes/alcalde.md)
+{% content-ref url="guia/ciudades/alcalde.md" %}
+[alcalde.md](guia/ciudades/alcalde.md)
 {% endcontent-ref %}
 
 ### Enlaces
