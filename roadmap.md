@@ -2,7 +2,7 @@
 description: Objetivos que llevamos a cabo para cumplir las expectativas
 ---
 
-# Roadmap
+# 🛣 Roadmap
 
 * [x] **Toda la Info del server y actualizaciones van a estar en formato de video para que sea más fácil y entretenido.**\
   ****

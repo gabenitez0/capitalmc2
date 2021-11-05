@@ -8,10 +8,16 @@
 ## Guía
 
 * [🏛 Ciudades / Towny](guia/ciudades/README.md)
-  * [ALCALDE](guia/ciudades/alcalde.md)
+  * [🤴 Guía para Alcaldes](guia/ciudades/guia-para-alcaldes/README.md)
+    * [Guía Inicial](guia/ciudades/guia-para-alcaldes/alcalde.md)
+    * [Precios](guia/ciudades/guia-para-alcaldes/precios.md)
+    * [Comandos Básicos](guia/ciudades/guia-para-alcaldes/comandos-basicos.md)
+    * [Rangos](guia/ciudades/guia-para-alcaldes/rangos.md)
+  * [🙋♀ Guía para Residentes](guia/ciudades/guia-para-residentes.md)
   * [Culturas](guia/ciudades/culturas.md)
   * [Guerras y Conquistas](guia/ciudades/guerra-de-ciudades.md)
-* [Mercado](guia/mercado.md)
+* [🛒 Mercado](guia/mercado.md)
+* [🐴 Mascotas](guia/mascotas.md)
 * [Votos](guia/votos.md)
 * [Chat de Voz](guia/chat-de-voz.md)
 * [Crates](guia/crates.md)
@@ -19,4 +25,3 @@
 * [Jobs](guia/jobs.md)
 * [Perfil](guia/perfil.md)
 * [Parkour](guia/parkour.md)
-* [Mascotas](guia/mascotas.md)

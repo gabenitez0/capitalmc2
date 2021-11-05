@@ -2,7 +2,7 @@
 description: Todos Nuestros Links
 ---
 
-# Redes Sociales
+# 👋 Redes Sociales
 
 {% embed url="http://discord.capitalmc2.xyz" %}
 Grupo de Discord
