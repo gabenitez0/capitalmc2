@@ -2,7 +2,7 @@
 description: Guía INICIAL para ALCALDES
 ---
 
-# Guía Inicial
+# 🧱 Guía Inicial
 
 {% embed url="https://www.youtube.com/watch?v=tgxJj5IxTzk" %}
 Guía INICIAL para ALCALDES

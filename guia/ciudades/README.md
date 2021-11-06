@@ -10,7 +10,10 @@ description: Aprende todo sobre cómo funcionan las ciudades.
 [guia-para-alcaldes](guia-para-alcaldes/)
 {% endcontent-ref %}
 
+{% content-ref url="guia-para-residentes/" %}
+[guia-para-residentes](guia-para-residentes/)
+{% endcontent-ref %}
+
 {% embed url="https://github.com/TownyAdvanced/Towny/wiki" %}
 Documentación Completa de Towny
 {% endembed %}
-

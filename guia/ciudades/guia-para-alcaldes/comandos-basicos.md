@@ -2,7 +2,7 @@
 description: Comandos más utilizados por Alcaldes
 ---
 
-# Comandos Básicos
+# 🧭 Comandos Básicos
 
 * **/t new** : crea una nueva ciudad.&#x20;
 * **/t toggle (fire/mobs/pvp) (off/on)**: activar y desactivar el fuego, los mobs y pvp dentro de tu ciudad.&#x20;

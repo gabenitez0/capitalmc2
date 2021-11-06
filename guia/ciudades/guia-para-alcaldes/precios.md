@@ -2,7 +2,7 @@
 description: Conoce todos los precios de Towny
 ---
 
-# Precios
+# 💵 Precios
 
 ### Precios para Crear
 
