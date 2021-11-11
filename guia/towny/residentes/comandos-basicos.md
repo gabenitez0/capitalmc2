@@ -4,6 +4,12 @@ description: Comandos más utilizados por Residentes o nuevos jugadores.
 
 # ⏱ Comandos Básicos
 
+
+
+{% hint style="info" %}
+Plot = Chunk = Terreno = Parcela
+{% endhint %}
+
 * **/t list**: ver lista de ciudades del server.
 * **/t join \<town>**: unirte a una ciudad si es pública.
 * **/t spawn \<town>**: ir al spawn de una ciudad específica (si es pública).
