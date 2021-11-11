@@ -20,7 +20,7 @@ Los mobs que ya son capturables en vanilla, como Lobos y Caballos, requieren que
 #### Mobs que se pueden capturar:
 
 {% hint style="success" %}
-• Murcielago • Blaze • Gato • Creeper • Burro • Enderman • Iron Golem • Piglin • Abeja • Conejo • Tortuga • Obeja • Vaca • Gallina • Cerdo • Llama • Zombie • Araña • Araña de Cueva • Esqueleto • Caballo • Lobo • Blaze • Phantom
+• Murcielago • Blaze • Gato • Creeper • Burro • Enderman • Iron Golem • Piglin • Abeja • Conejo • Tortuga • Obeja • Vaca • Gallina • Cerdo • Llama • Zombie • Araña • Araña de Cueva • Esqueleto • Caballo • Lobo • Blaze • Phantom • Llama Mercader • Mercader
 {% endhint %}
 
 #### ¿Cómo se pueden montar?
