@@ -6,12 +6,12 @@ description: Aprende todo sobre cómo funcionan las ciudades.
 
 **Towny es un plugin que sirve para tener tu propia ciudad y proteger áreas del survival.** Puedes unirte a una ciudad o crear la tuya propia, invitar a jugadores, vender o darle parcelas, y mucho más!
 
-{% content-ref url="guia-para-alcaldes/" %}
-[guia-para-alcaldes](guia-para-alcaldes/)
+{% content-ref url="alcaldes/" %}
+[alcaldes](alcaldes/)
 {% endcontent-ref %}
 
-{% content-ref url="guia-para-residentes/" %}
-[guia-para-residentes](guia-para-residentes/)
+{% content-ref url="residentes/" %}
+[residentes](residentes/)
 {% endcontent-ref %}
 
 {% embed url="https://github.com/TownyAdvanced/Towny/wiki" %}

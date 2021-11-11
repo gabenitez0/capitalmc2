@@ -8,12 +8,12 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 
 ### Ya Disponible
 
-{% content-ref url="guia/ciudades/" %}
-[ciudades](guia/ciudades/)
+{% content-ref url="guia/towny/" %}
+[towny](guia/towny/)
 {% endcontent-ref %}
 
-{% content-ref url="guia/ciudades/alcalde.md" %}
-[alcalde.md](guia/ciudades/alcalde.md)
+{% content-ref url="guia/towny/alcaldes/alcalde.md" %}
+[alcalde.md](guia/towny/alcaldes/alcalde.md)
 {% endcontent-ref %}
 
 ### Enlaces
