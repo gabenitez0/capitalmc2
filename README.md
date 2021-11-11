@@ -28,8 +28,8 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 [minijuegos.md](guia/minijuegos.md)
 {% endcontent-ref %}
 
-{% content-ref url="guia/mochila-y-tumba.md" %}
-[mochila-y-tumba.md](guia/mochila-y-tumba.md)
+{% content-ref url="guia/enderchest.md" %}
+[enderchest.md](guia/enderchest.md)
 {% endcontent-ref %}
 
 {% content-ref url="guia/mercado.md" %}

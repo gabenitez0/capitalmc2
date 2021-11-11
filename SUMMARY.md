@@ -24,6 +24,6 @@
 * [⛏ Trabajos / Jobs](guia/jobs.md)
 * [🐴 Mascotas / Pets](guia/pets.md)
 * [✨ Parkour / Elytras](guia/minijuegos.md)
-* [🗄 Enderchest](guia/mochila-y-tumba.md)
+* [🗄 Enderchest](guia/enderchest.md)
 * [🛒 Mercado](guia/mercado.md)
 * [Chat de Voz](guia/chat-de-voz.md)
