@@ -46,6 +46,6 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 [roadmap.md](roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="tienda.md" %}
-[tienda.md](tienda.md)
+{% content-ref url="guia/tienda/" %}
+[tienda](guia/tienda/)
 {% endcontent-ref %}

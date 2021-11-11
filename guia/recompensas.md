@@ -16,6 +16,11 @@ Ganarás recompensas simplemente por jugar y se te otorgarán automáticamente e
 
 Puedes votar al server con una tarea muy simple y recibir recompensas por ello, usa el comando **/vote** para ver los links.
 
+* [x] 1 Voto = Vip por 1 hora
+* [x] 5 Votos = Vip por 5 horas
+
+**¿Cómo hacer?**
+
 1. Abrir el Link que sale en el chat
 2. Colocar tu Nick y apretar en Vote
 3. Listo, recibirás tu recompensa!

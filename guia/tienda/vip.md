@@ -2,6 +2,6 @@
 description: Personaliza tu perfil
 ---
 
-# Perfil
+# ⭐ Guía Vip
 
 En construcción...

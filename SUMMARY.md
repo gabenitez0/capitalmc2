@@ -3,7 +3,6 @@
 * [😄 Bienvenidos](README.md)
 * [👋 Redes Sociales](redes-sociales.md)
 * [🛣 Roadmap](roadmap.md)
-* [🌟 Tienda Online](tienda.md)
 
 ## Guía
 
@@ -18,10 +17,13 @@
   * [Culturas](guia/towny/culturas.md)
   * [Guerras y Conquistas](guia/towny/siegewar.md)
 * [🔔 Recompensas](guia/recompensas.md)
+* [🌟 Tienda Online](guia/tienda/README.md)
+  * [⭐ Guía Vip](guia/tienda/vip.md)
+  * [🌟 Guía Vip+](guia/tienda/guia-vip+.md)
+  * [✨ Guía BattlePass](guia/tienda/guia-battlepass.md)
 * [⛏ Trabajos / Jobs](guia/jobs.md)
 * [🐴 Mascotas / Pets](guia/pets.md)
 * [✨ Parkour / Elytras](guia/minijuegos.md)
 * [🗄 Enderchest](guia/mochila-y-tumba.md)
 * [🛒 Mercado](guia/mercado.md)
 * [Chat de Voz](guia/chat-de-voz.md)
-* [Perfil](guia/perfil.md)
