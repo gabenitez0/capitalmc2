@@ -1,5 +1,8 @@
 ---
-description: Aprende todo sobre cómo funcionan las mascotas.
+description: >-
+  Las mascotas son un excelente acompañante que pueden luchar, defenderte y
+  llevar objetos. Tienen un sistema de Niveles y Habilidades que van subiendo y
+  haciéndola más fuerte a medida que ganan Exp.
 ---
 
 # 🐴 Mascotas / Pets

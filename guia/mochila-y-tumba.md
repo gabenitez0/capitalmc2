@@ -1,8 +1,12 @@
 ---
-description: Enderchest Extendido para todos!
+description: >-
+  Con esta función tienes más lugar para llevar y guardar tus objetos y no
+  perderlos al morir!
 ---
 
 # 🗄 Enderchest
+
+**Con esta función tienes más lugar para llevar y guardar tus objetos y no perderlos al morir!**
 
 Abrir lista de Enderchests: **/sec**
 

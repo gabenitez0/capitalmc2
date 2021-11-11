@@ -1,5 +1,7 @@
 ---
-description: Cómo ganar items y recompensas en el juego
+description: >-
+  Cómo ganar items y recompensas en el juego. Recompensas por Tiempo de Juego.
+  Recompensas por Votar. Recompensas por Invitación.
 ---
 
 # 🔔 Recompensas

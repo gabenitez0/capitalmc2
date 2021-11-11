@@ -1,5 +1,8 @@
 ---
-description: ¿Cómo ganar dinero fácil en CapitalMC?
+description: >-
+  Todos los trabajos se asignan automáticamente a todos, por lo tanto no debes
+  acceder a ningún trabajo manualmente, ya los tienes todos! con cualquier
+  acción que hagas dentro del juego estarás ganando
 ---
 
 # ⛏ Trabajos / Jobs
