@@ -20,12 +20,26 @@ Puedes votar al server con una tarea muy simple y recibir recompensas por ello, 
 2. Colocar tu Nick y apretar en Vote
 3. Listo, recibirás tu recompensa!
 
+**Enlaces para votar:**
+
+* [https://topminecraftservers.org/vote/22334](https://topminecraftservers.org/vote/22334)
+* [https://minecraft-mp.com/server/294971/vote/](https://minecraft-mp.com/server/294971/vote/)
+* [https://polymart.org/server/capitalmc-2.158/vote](https://polymart.org/server/capitalmc-2.158/vote)
+* [https://www.planetminecraft.com/server/capitalmc-2/vote/](https://www.planetminecraft.com/server/capitalmc-2/vote/)
+
 ### Recompensas por Invitaciones
 
-**Puedes obtener recompensas de la Tienda Online** invitando personas al Canal de Discord oficial de CapitalMC 2.
+**Puedes obtener recompensas acumulables de la Tienda Online** invitando personas al Canal de Discord oficial de CapitalMC 2.
 
-1. Crear un enlace de invitación al Discord (**Debe ser un enlace permanente!**).
-2. **Compartir el enlace** en grupos de facebook, instagram, discord o cualquier lugar donde puedan verlo otros jugadores de minecraft.
-3. Puedes ver las invitaciones que tienes escribiendo **/invites** en el Discord.
+* [x] 5 Invitaciones = VIP por 1 día
+* [x] 25 Invitaciones = VIP por 1 semana
 
-Más info en el Canal #Vip-gratis del Discord.
+**¿Cómo hacer?**
+
+1.  Crear un enlace de invitación al Discord de CapitalMC 2.
+
+    ![](<../.gitbook/assets/image (3).png>)
+2. **Compartir el enlace** en grupos de facebook, instagram, discord, amigos o cualquier lugar donde puedan accederlo otros jugadores de minecraft.
+3.  Puedes ver las invitaciones que tienes escribiendo **/invites** en el Discord. También puedes ver el Top con **/leaderboard**.
+
+    ![](<../.gitbook/assets/image (2).png>)
