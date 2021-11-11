@@ -2,7 +2,7 @@
 description: Aprende todo sobre cómo funcionan las mascotas.
 ---
 
-# 🐴 Mascotas
+# 🐴 Mascotas / Pets
 
 Las mascotas son un excelente acompañante que pueden luchar, defenderte y llevar objetos. Tienen un sistema de Niveles y Habilidades que van subiendo y haciéndola más fuerte a medida que ganan Exp.&#x20;
 
@@ -27,4 +27,4 @@ Los mobs que ya son capturables en vanilla, como Lobos y Caballos, requieren que
 
 La mascota debe tener la Habilidad Ride y luego simplemente deben hacerle click derecho con una Rienda.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)

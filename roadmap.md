@@ -4,18 +4,10 @@ description: Objetivos que llevamos a cabo para cumplir las expectativas
 
 # 🛣 Roadmap
 
-* [x] **Toda la Info del server y actualizaciones van a estar en formato de video para que sea más fácil y entretenido.**\
-  ****
-* [x] **Chat de Voz local (opcional) y otros complementos para mejorar la inmersión en el juego. **[**Chat de Voz**](guia/chat-de-voz.md)****\
-  ****
-* [x] **Optimización del servidor para que siempre funcione todo correctamente.**\
-  ****
-* [x] ** Serie del servidor en Youtube para ir contando lo que sucede.**\
-  ****
-* [x] ** Automatizar el servidor para que todo funcione instantáneamente, sin intervención de admins ni mods.**\
-  ****
-* [x] ** Tienda Donor funcional para cumplir con los objetivos que requieran inversión. **[**Tienda**](tienda.md)****\
-  ****
-* [ ] **Contratación de youtubers / streamers para aumentar la cantidad de jugadores.**
-
-![](.gitbook/assets/roadmap2.png)
+* [x] **SISTEMA de PUBLICIDAD: **[#recompensas-por-invitaciones](guia/recompensas.md#recompensas-por-invitaciones "mention")
+* [x] **TIENDA ONLINE: **[tienda.md](tienda.md "mention")****
+* [x] **SERIE de YOUTUBE: **[**https://bit.ly/3AU99Qb**](https://bit.ly/3AU99Qb)****
+* [x] **GUIA del SERVER (esta página).**
+* [ ] **CHAT de VOZ DENTRO del SERVER (local, opcional). **[**Chat de Voz**](guia/chat-de-voz.md)
+* [x] **MEJORAS del SERVER: **[**https://discord.gg/A65as4K**](https://discord.gg/A65as4K)****
+* [x] **MAPA EN VIVO: **[**http://map.capitalmc2.xyz/**](http://map.capitalmc2.xyz)
