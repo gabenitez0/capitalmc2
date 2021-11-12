@@ -1,12 +1,12 @@
 ---
-description: GUÍA OFICIAL de CapitalMC 2
+description: Esta GUÍA te ayudará a entender TODO de CapitalMC 2!
 ---
 
 # 😄 Bienvenidos
 
-Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
+Esta GUÍA te ayudará a entender TODO de CapitalMC 2!
 
-### Ya Disponible
+### Guías disponibles
 
 {% content-ref url="guia/towny/" %}
 [towny](guia/towny/)
@@ -14,6 +14,10 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 
 {% content-ref url="guia/recompensas.md" %}
 [recompensas.md](guia/recompensas.md)
+{% endcontent-ref %}
+
+{% content-ref url="guia/tienda/" %}
+[tienda](guia/tienda/)
 {% endcontent-ref %}
 
 {% content-ref url="guia/jobs.md" %}
@@ -44,8 +48,4 @@ Esta GUÍA está en construcción, vamos a ir agregando contenido gradualmente.
 
 {% content-ref url="roadmap.md" %}
 [roadmap.md](roadmap.md)
-{% endcontent-ref %}
-
-{% content-ref url="guia/tienda/" %}
-[tienda](guia/tienda/)
 {% endcontent-ref %}
