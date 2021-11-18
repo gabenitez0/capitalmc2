@@ -30,4 +30,4 @@ Los mobs que ya son capturables en vanilla, como Lobos y Caballos, requieren que
 
 La mascota debe tener la Habilidad Ride y luego simplemente deben hacerle click derecho con una Rienda.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
