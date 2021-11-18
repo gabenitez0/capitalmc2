@@ -5,8 +5,8 @@ description: Aprende como habilitar el chat de voz en el servidor.
 # 🎧 Chat de Voz
 
 1. Dentro del juego, escribir el comando: **/link**
-2. Copiar el código de 4 dígitos.
-3.  Buscar el Bot "Voice Minecraft" y enviarle el código por MD.
+2. **Copiar el código de 4 dígitos.**
+3.  **Buscar el Bot "Voice Minecraft" y enviarle el código por MD.**
 
     ![](<../.gitbook/assets/image (4).png>)****
 
