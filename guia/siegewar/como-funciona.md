@@ -67,8 +67,8 @@ description: Entiende todo sobre como funcionan las guerras. Cómo atacar y cóm
 
 * Esta opción está disponible para naciones victoriosas.&#x20;
 * Para ejecutar esta acción, como rey o general, coloque un cofre en el desierto cerca de la ciudad.&#x20;
-  * Esta acción le robará a la ciudad $ 200 / parcela:&#x20;
-  * El botín se divide entre el banco de la nación victoriosa y los soldados que contribuyeron a la victoria, en una proporción de 3:1.&#x20;
+  * **Esta acción le robará a la ciudad $ 250 / parcela:**&#x20;
+  * **El botín se divide entre el banco de la nación victoriosa y los soldados que contribuyeron a la victoria, en una proporción de 3:1.**&#x20;
   * Las contribuciones de los soldados se miden mediante el control del estandarte: un soldado recibe exactamente una parte si obtiene el control del estandarte al menos una vez durante una batalla.&#x20;
 * Una ciudad saqueada no puede caer debido a la pérdida de dinero (solo puede caer en "bancarrota", preservando la ciudad por completo pero bloqueando la construcción / reclamación / reclutamiento hasta que se pague la deuda).
 
@@ -76,7 +76,7 @@ description: Entiende todo sobre como funcionan las guerras. Cómo atacar y cóm
 
 * Esta opción está disponible para las naciones atacantes victoriosas.&#x20;
 * Para ejecutar esta acción, como rey / general, coloque un estandarte que no sea blanco en el desierto cerca de la ciudad:&#x20;
-  * Esta acción invadirá la ciudad, convirtiendo a la nación victoriosa en su ocupante.&#x20;
+  * **Esta acción invadirá la ciudad, convirtiendo a la nación victoriosa en su ocupante.**&#x20;
 * La ciudad ocupada sigue siendo una parte completa de la nación de origen, con la excepción de las siguientes áreas, donde se cuenta como parte de la nación ocupante:&#x20;
   * Contribuciones de parcelas de bonificación.&#x20;
   * Color de la ciudad de Dynmap.&#x20;
