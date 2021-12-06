@@ -14,7 +14,7 @@ description: Conoce todos los precios de Towny
 
 _Todo el dinero que se utilice para funciones del towny debe estar depositado dentro de la town._ Para depositar: **/t deposit \<dinero>** - Ver banco: **/t**
 
-*   **Claim Chunk**: $100 + 1.02% \* Qty Chunks (cada chunk que claimeas cuesta un 1.04% mas caro que el anterior)
+*   **Claim Chunk**: $100 + 1.02% \* Qty Chunks (cada chunk que claimeas cuesta un 1.02% mas caro que el anterior)
 
     Precio Máximo a pagar por Chunk: $500.000, se alcanza este valor recién con 430 Chunks Claimeados. <mark style="color:orange;">Math: 100 \* (1.02 ^ Qty)</mark>
 * **Claim Chunk Bonus**: $100 + 1.1% \* Qty Chunks. <mark style="color:orange;">Math: 100 \* (1.1 ^ Qty)</mark>

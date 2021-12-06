@@ -14,7 +14,7 @@ Las mascotas son un excelente acompañante que pueden luchar, defenderte y lleva
 
 ### ¿Cómo se captura una Mascota?
 
-**La mayoría de mobs requieren de estar con baja vida y luego hacerles click con una Rienda en la mano.**&#x20;
+**La mayoría de mobs requieren de estar con baja vida y luego hacerles click con una Rienda en la mano. **
 
 ![Item Rienda](<../.gitbook/assets/image (2) (1) (1).png>)
 
