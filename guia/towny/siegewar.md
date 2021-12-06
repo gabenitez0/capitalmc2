@@ -20,6 +20,6 @@ description: >-
 [como-funciona.md](../siegewar/como-funciona.md)
 {% endcontent-ref %}
 
-{% embed url="https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide" %}
-Guia Oficial de SiegeWar
-{% endembed %}
+{% content-ref url="../siegewar/comandos-siegewar.md" %}
+[comandos-siegewar.md](../siegewar/comandos-siegewar.md)
+{% endcontent-ref %}
