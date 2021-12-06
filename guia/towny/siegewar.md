@@ -2,7 +2,7 @@
 description: En qué consisten las guerras y conquistas.
 ---
 
-# Guerras y Conquistas
+# ⚔ Guerras y Conquistas
 
 En construcción...
 
