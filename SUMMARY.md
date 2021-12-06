@@ -14,7 +14,7 @@
     * [👩✈ Rangos](guia/towny/alcaldes/rangos.md)
   * [🙋♀ Guía para Residentes](guia/towny/residentes/README.md)
     * [⏱ Comandos Básicos](guia/towny/residentes/comandos-basicos.md)
-* [⚔ Guerras / SiegeWar](guia/siegewar/README.md)
+* [⚔ Guerras / SiegeWar](guia/towny/siegewar.md)
   * [🚩 Cómo funciona](guia/siegewar/como-funciona.md)
 * [🔔 Recompensas](guia/recompensas.md)
 * [🌟 Tienda Online](guia/tienda/README.md)

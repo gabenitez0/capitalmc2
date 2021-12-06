@@ -23,8 +23,8 @@ Ten en cuenta que en cuanto participas de una ciudad o nación también estarás
 [residentes](residentes/)
 {% endcontent-ref %}
 
-{% content-ref url="../siegewar/" %}
-[siegewar](../siegewar/)
+{% content-ref url="siegewar.md" %}
+[siegewar.md](siegewar.md)
 {% endcontent-ref %}
 
 ### Mejoras que ofrece Towny

@@ -16,6 +16,10 @@ description: >-
 * ♟️ **Estratégico**: el sistema tiene muchos elementos estratégicos (por ejemplo, decidir cuándo / dónde / a quién atacar, organizar la composición / logística / movimiento del ejército, diplomacia / ocupación / paz, etc.).
 * 🍎 **No tóxico**: queremos que todo se trate del juego, del rol de poder del juego, no rencores personales, no toxicidad, esperamos madurez por parte de los jugadores y que disfruten del juego también de manera competitiva.
 
+{% content-ref url="../siegewar/como-funciona.md" %}
+[como-funciona.md](../siegewar/como-funciona.md)
+{% endcontent-ref %}
+
 {% embed url="https://github.com/TownyAdvanced/SiegeWar/wiki/Siege-War-User-Guide" %}
 Guia Oficial de SiegeWar
 {% endembed %}
