@@ -11,6 +11,8 @@ description: >-
 
 Puedes unirte a una ciudad existente (como Residente) o crear tu propia ciudad (como Alcalde): invitar a jugadores, vender terrenos, entrar en guerra o hacer las paces con otras Ciudades y Naciones, administrar la ciudad y a tus residentes.
 
+Ten en cuenta que en cuanto participas de una ciudad o nación también estarás participando del sistema de Guerras.
+
 **Puedes ver las correspondientes guías:**
 
 {% content-ref url="alcaldes/" %}
@@ -19,6 +21,10 @@ Puedes unirte a una ciudad existente (como Residente) o crear tu propia ciudad (
 
 {% content-ref url="residentes/" %}
 [residentes](residentes/)
+{% endcontent-ref %}
+
+{% content-ref url="../siegewar/" %}
+[siegewar](../siegewar/)
 {% endcontent-ref %}
 
 ### Mejoras que ofrece Towny
