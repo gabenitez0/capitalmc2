@@ -25,17 +25,17 @@ description: Comandos necesarios para utilizar SiegeWar correctamente.
 
 #### Cobrar el reembolso de la nación**:**
 
-* /sw collect: como rey, si su nación es eliminada por cualquier motivo, incluida la captura de su última ciudad, se le reembolsará (80%) del costo de instalación inicial. Este comando cobra ese reembolso.&#x20;
+* **/sw collect**: como rey, si su nación es eliminada por cualquier motivo, incluida la captura de su última ciudad, se le reembolsará (80%) del costo de instalación inicial. Este comando cobra ese reembolso.&#x20;
 
 #### Gestionar la ocupación de forma pacífica:
 
 * **/sw nation removeoccupation** - Como rey, elimine pacíficamente la ocupación de una ciudad por parte de su nación.&#x20;
-* /sw nation transferoccupation - Como rey, invita a otra nación a ocupar pacíficamente una ciudad que ocupas actualmente.&#x20;
-* /sw town inviteoccupation - Como alcalde, invita a una nación a ocupar pacíficamente tu ciudad.
+* **/sw nation transferoccupation** - Como rey, invita a otra nación a ocupar pacíficamente una ciudad que ocupas actualmente.&#x20;
+* **/sw town inviteoccupation** - Como alcalde, invita a una nación a ocupar pacíficamente tu ciudad.
 
 ### Hacer la ciudad pacífica
 
-* /t toggle peaceful: como alcalde, declara que tu ciudad es pacífica. La paz hará que su ciudad sea completamente inmune a los ataques de asedio y, a cambio, puede ser ocupado pacíficamente por naciones poderosas cercanas. ADVERTENCIA: No active esta función a menos que esté preparado para aceptar las desventajas, incluida la posibilidad de Ocupación pacífica.
+* **/t toggle peaceful**: como alcalde, declara que tu ciudad es pacífica. La paz hará que su ciudad sea completamente inmune a los ataques de asedio y, a cambio, puede ser ocupado pacíficamente por naciones poderosas cercanas. ADVERTENCIA: No active esta función a menos que esté preparado para aceptar las desventajas, incluida la posibilidad de Ocupación pacífica.
 * Tiempo de confirmación:&#x20;
   * El estado se confirmará en 5 días (o 2 si la ciudad es nueva).&#x20;
 * Ventajas:&#x20;
@@ -58,7 +58,7 @@ description: Comandos necesarios para utilizar SiegeWar correctamente.
 
 #### Hacer que la ciudad no sea pacífica:&#x20;
 
-* /t toggle peaceful: como alcalde, declara que tu ciudad no es pacífica.&#x20;
+* **/t toggle peaceful**: como alcalde, declara que tu ciudad no es pacífica.&#x20;
 * Tiempo de confirmación:&#x20;
   * El estado se confirmará en 5 días (o 2 si la ciudad es nueva).&#x20;
 * Efectos:&#x20;
