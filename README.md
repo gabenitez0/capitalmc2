@@ -26,8 +26,8 @@ description: >-
 [eventos.md](guia/eventos.md)
 {% endcontent-ref %}
 
-{% content-ref url="guia/contenido/minijuegos.md" %}
-[minijuegos.md](guia/contenido/minijuegos.md)
+{% content-ref url="guia/minijuegos.md" %}
+[minijuegos.md](guia/minijuegos.md)
 {% endcontent-ref %}
 
 {% content-ref url="guia/recompensas.md" %}

@@ -8,8 +8,8 @@ description: >-
 
 ### Minijuegos
 
-{% content-ref url="minijuegos.md" %}
-[minijuegos.md](minijuegos.md)
+{% content-ref url="../minijuegos.md" %}
+[minijuegos.md](../minijuegos.md)
 {% endcontent-ref %}
 
 ### Eventos

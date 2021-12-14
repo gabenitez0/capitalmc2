@@ -23,7 +23,6 @@
     * [🧭 Comandos SiegeWar](guia/siegewar/comandos-siegewar.md)
   * [🏴☠ Guía FlagWar](guia/towny/guia-flagwar.md)
 * [🤩 Contenido Adicional](guia/contenido/README.md)
-  * [✨ Minijuegos](guia/contenido/minijuegos.md)
   * [⛏ Trabajos / Jobs](guia/jobs.md)
   * [🛒 Mercado](guia/mercado.md)
   * [🗄 Enderchest](guia/enderchest.md)
@@ -31,4 +30,5 @@
   * [🎧 Chat de Voz](guia/chat-de-voz.md)
 * [🌟 Contenido Exclusivo](guia/tienda/README.md)
 * [🎁 Eventos](guia/eventos.md)
+* [✨ Minijuegos](guia/minijuegos.md)
 * [🔔 Recompensas](guia/recompensas.md)
