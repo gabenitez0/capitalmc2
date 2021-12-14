@@ -2,7 +2,7 @@
 description: Precios para Crear y Mantener una Nación.
 ---
 
-# 💵 Precios
+# 💰 Precios
 
 ### Precios para Naciones
 

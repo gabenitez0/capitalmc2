@@ -35,7 +35,7 @@ description: Comandos necesarios para utilizar SiegeWar correctamente.
 
 ### Hacer la ciudad pacífica
 
-* **/t toggle peaceful**: como alcalde, declara que tu ciudad es pacífica. La paz hará que su ciudad sea completamente inmune a los ataques de asedio y, a cambio, puede ser ocupado pacíficamente por naciones poderosas cercanas. ADVERTENCIA: No active esta función a menos que esté preparado para aceptar las desventajas, incluida la posibilidad de Ocupación pacífica.
+* **/t toggle neutral**: como alcalde, declara que tu ciudad es pacífica. La paz hará que su ciudad sea completamente inmune a los ataques de asedio y, a cambio, puede ser ocupado pacíficamente por naciones poderosas cercanas. ADVERTENCIA: No active esta función a menos que esté preparado para aceptar las desventajas, incluida la posibilidad de Ocupación pacífica.
 * Tiempo de confirmación:&#x20;
   * El estado se confirmará en 5 días (o 2 si la ciudad es nueva).&#x20;
 * Ventajas:&#x20;
@@ -58,7 +58,7 @@ description: Comandos necesarios para utilizar SiegeWar correctamente.
 
 #### Hacer que la ciudad no sea pacífica:&#x20;
 
-* **/t toggle peaceful**: como alcalde, declara que tu ciudad no es pacífica.&#x20;
+* **/t toggle neutral**: como alcalde, declara que tu ciudad no es pacífica.&#x20;
 * Tiempo de confirmación:&#x20;
   * El estado se confirmará en 5 días (o 2 si la ciudad es nueva).&#x20;
 * Efectos:&#x20;

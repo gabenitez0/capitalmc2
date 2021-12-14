@@ -4,9 +4,9 @@ description: >-
   que necesitas para crear y mantener tu Ciudad.
 ---
 
-# 🤴 Guía para Alcaldes
+# 🤴 Guía Alcaldes
 
-Los alcaldes son los Creadores de una Ciudad. Toda la info que necesitas para crear y mantener tu Ciudad:
+#### Los alcaldes son los Creadores de una Ciudad. Toda la info que necesitas para crear y mantener tu Ciudad:
 
 {% content-ref url="alcalde.md" %}
 [alcalde.md](alcalde.md)
