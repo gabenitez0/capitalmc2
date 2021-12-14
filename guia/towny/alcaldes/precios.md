@@ -26,3 +26,9 @@ Este monto se cobra todos los días a la town, si no se paga el mantenimiento di
 
 * **Ciudad:** $500 \* Qty Chunks (Si tienes 100 Chunks tendrás que pagar $50.000 diarios)
 * **Nación:** $200 \* Qty Chunks (se suma el total de chunks de todas las ciudades de la nación)
+
+### Bancarrota
+
+Cuando una ciudad no puede pagar el costo de mantenimiento diario caerá en bancarrota, lo que le impide utilizar la ciudad casi por completo, no puedes claimear ni modificar tu ciudad hasta que deposites el dinero para saldar la deuda.
+
+**Si la deuda se eleva demasiado corres el riesgo de que tu ciudad sea eliminada!**
