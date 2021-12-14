@@ -1,8 +1,12 @@
 ---
-description: Toda la info que necesitas para crear y mantener tu Ciudad.
+description: >-
+  Los Alcaldes son los Creadores de una Ciudad. Aquí encontrarás toda la info
+  que necesitas para crear y mantener tu Ciudad.
 ---
 
 # 🤴 Guía para Alcaldes
+
+Los alcaldes son los Creadores de una Ciudad. Toda la info que necesitas para crear y mantener tu Ciudad:
 
 {% content-ref url="alcalde.md" %}
 [alcalde.md](alcalde.md)
