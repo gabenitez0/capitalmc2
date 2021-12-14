@@ -5,7 +5,7 @@ description: >-
   ataques, pero vulnerables a la ocupación pacífica.
 ---
 
-# ⚔ Guerras / SiegeWar
+# ⚔ Guía SiegeWar
 
 ### Características Generales
 
