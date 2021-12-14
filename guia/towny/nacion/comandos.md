@@ -18,6 +18,7 @@ description: Comandos más utilizados por Fundadores
 * **/n set tag \<tag>**- establecer tag de máximo 4 letras.&#x20;
 * **/n set taxes \<porcentaje>** - establecer impuestos que se le cobrarán diariamente a todas las ciudades. Por Ej: /n set taxes 10: cobrará 10% diario del dinero de las ciudades.
 * **/nc** - cambiar al chat de la nación. Puedes volver al general con **/g**
+* **/n** - ver el tablero de información de tu nación.
 * **/t delete** - eliminar tu nación.
 
 ### Comandos de Guerra:

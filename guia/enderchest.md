@@ -10,7 +10,7 @@ description: >-
 
 Abrir lista de Enderchests: **/sec**
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 **Cantidad de Enderchests según rango:**
 

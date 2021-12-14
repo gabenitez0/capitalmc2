@@ -15,8 +15,8 @@ description: Precios para Crear y Mantener una Nación.
 
 _La nación no puede claimear chunks, eso es exclusivo de las ciudades. La Nación te permite acceder a claims de chunks bonus para tu ciudad y principalmente domina el territorio de forma Política._
 
-#### Bancarrota
+### <mark style="color:red;">La Nación se</mark> <mark style="color:red;"></mark><mark style="color:red;">**borra**</mark> <mark style="color:red;"></mark><mark style="color:red;">si no tiene fondos</mark>
 
-Cuando una Nación no puede pagar el costo de mantenimiento diario caerá en bancarrota, lo que le impide utilizar la Nación casi por completo, no podrás atacar ni defenderte hasta que deposites el dinero para saldar la deuda.
+**Cuando una Nación no puede pagar el costo de mantenimiento diario se borra sin previo aviso! no cae en bancarrota como la town sino que directamente se elimina.**
 
-**Si la deuda se eleva demasiado corres el riesgo de que tu Nación sea eliminada!**
+![](../../../.gitbook/assets/image.png)

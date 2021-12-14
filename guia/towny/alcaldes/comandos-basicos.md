@@ -23,6 +23,7 @@ description: Comandos más utilizados por Alcaldes
 * **/t set taxes \<porcentaje>** - establecer impuestos que se le cobrarán diariamente a todos los residentes. Por Ej: /t set taxes 10: cobrará 10% diario del dinero de los residentes.
 * **/t set taxpercentcap \<cantidad>** - límite de impuestos que va a pagar un residente. Por Ej: /t set taxpercentcap 10000: el máximo de impuestos que pagará un residente es de $10.000
 * **/tc** - cambiar al chat de ciudad. Puedes volver al general con **/g**
+* **/t** - ver el tablero de información de tu ciudad.
 * **/t delete** - eliminar tu ciudad.
 
 ### Comandos de Guerra:
