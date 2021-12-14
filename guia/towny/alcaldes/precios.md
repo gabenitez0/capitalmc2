@@ -6,7 +6,7 @@ description: Conoce todos los precios de Towny
 
 ### Precios para Crear
 
-* **Crear una Town/Ciudad**: $3.000
+* **Crear una Town/Ciudad**: $6.000
 * **Crear un País/Nación**: $9.000
 * **Unificar 2 Ciudades:** $6.000 + $1.000 \* Qty Chunks
 
@@ -24,5 +24,5 @@ _Todo el dinero que se utilice para funciones del towny debe estar depositado de
 
 Este monto se cobra todos los días a la town, si no se paga el mantenimiento diario la town entra en bancarrota, no podrás construir y la town quedará inhabilitada.
 
-* **Ciudad:** $2.000 \* Qty Chunks (Si tienes 100 Chunks tendrás que pagar $200.000 diarios)
-* **Nación:** $10.000 \* Qty Towns (Si hay 5 ciudades en una noción, deberás pagar $50.000 diarios)
+* **Ciudad:** $500 \* Qty Chunks (Si tienes 100 Chunks tendrás que pagar $50.000 diarios)
+* **Nación:** $200 \* Qty Chunks (se suma el total de chunks de todas las ciudades de la nación)
