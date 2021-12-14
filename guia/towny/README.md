@@ -15,12 +15,16 @@ Ten en cuenta que en cuanto participas de una ciudad o nación también estarás
 
 **Puedes ver las correspondientes guías:**
 
+{% content-ref url="residentes/" %}
+[residentes](residentes/)
+{% endcontent-ref %}
+
 {% content-ref url="alcaldes/" %}
 [alcaldes](alcaldes/)
 {% endcontent-ref %}
 
-{% content-ref url="residentes/" %}
-[residentes](residentes/)
+{% content-ref url="guia-para-fundadores/" %}
+[guia-para-fundadores](guia-para-fundadores/)
 {% endcontent-ref %}
 
 {% content-ref url="siegewar.md" %}
