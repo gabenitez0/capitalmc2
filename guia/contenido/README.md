@@ -14,22 +14,24 @@ description: >-
 
 ### Eventos
 
-
+{% content-ref url="eventos.md" %}
+[eventos.md](eventos.md)
+{% endcontent-ref %}
 
 ### Sistema de Inventarios
 
-{% content-ref url="enderchest.md" %}
-[enderchest.md](enderchest.md)
+{% content-ref url="../enderchest.md" %}
+[enderchest.md](../enderchest.md)
 {% endcontent-ref %}
 
 ### Sistema de Economía
 
-{% content-ref url="jobs.md" %}
-[jobs.md](jobs.md)
+{% content-ref url="../jobs.md" %}
+[jobs.md](../jobs.md)
 {% endcontent-ref %}
 
-{% content-ref url="mercado.md" %}
-[mercado.md](mercado.md)
+{% content-ref url="../mercado.md" %}
+[mercado.md](../mercado.md)
 {% endcontent-ref %}
 
 {% content-ref url="../towny/" %}
@@ -38,8 +40,8 @@ description: >-
 
 ### Sistema de Mascotas
 
-{% content-ref url="pets.md" %}
-[pets.md](pets.md)
+{% content-ref url="../pets.md" %}
+[pets.md](../pets.md)
 {% endcontent-ref %}
 
 ### Sistema de Recompensas
@@ -50,12 +52,12 @@ description: >-
 
 ### Contenido Exclusivo
 
-{% content-ref url="../tienda.md" %}
-[tienda.md](../tienda.md)
+{% content-ref url="../tienda/" %}
+[tienda](../tienda/)
 {% endcontent-ref %}
 
 ### Sistema de Voice Chat
 
-{% content-ref url="voicechat.md" %}
-[voicechat.md](voicechat.md)
+{% content-ref url="../chat-de-voz.md" %}
+[chat-de-voz.md](../chat-de-voz.md)
 {% endcontent-ref %}

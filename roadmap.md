@@ -14,4 +14,4 @@ description: Objetivos que llevamos a cabo para cumplir las expectativas
 * [x] **GUIA del SERVER (esta página).**
 * [x] **MEJORAS del SERVER:** [**https://discord.gg/A65as4K**](https://discord.gg/A65as4K)****
 * [x] **MAPA EN VIVO:** [**http://map.capitalmc2.xyz/**](http://map.capitalmc2.xyz)
-* [x] **CHAT de VOZ DENTRO del SERVER (local, opcional).** [**Chat de Voz**](guia/contenido/voicechat.md)
+* [x] **CHAT de VOZ DENTRO del SERVER (local, opcional).** [**Chat de Voz**](guia/chat-de-voz.md)
