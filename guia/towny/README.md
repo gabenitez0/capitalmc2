@@ -5,7 +5,7 @@ description: >-
   ciudades en todos los aspectos: PvP, Construcciones
 ---
 
-# 🏛 Ciudades / Towny
+# 🏛 Towny
 
 **Towny es el Modo de Juego Principal de CapitalMC, es una función que sirve para tener tu propia ciudad, proteger áreas del mapa y competir con otras ciudades en todos los aspectos: PvP, Construcciones, Residentes, Economía, Políticas, etc.**
 
@@ -23,8 +23,8 @@ Ten en cuenta que en cuanto participas de una ciudad o nación también estarás
 [residentes](residentes/)
 {% endcontent-ref %}
 
-{% content-ref url="siegewar.md" %}
-[siegewar.md](siegewar.md)
+{% content-ref url="siegewar/" %}
+[siegewar](siegewar/)
 {% endcontent-ref %}
 
 ### Mejoras que ofrece Towny

@@ -6,7 +6,7 @@
 
 ## Guía
 
-* [🏛 Ciudades / Towny](guia/towny/README.md)
+* [🏛 Towny](guia/towny/README.md)
   * [🤴 Guía para Alcaldes](guia/towny/alcaldes/README.md)
     * [🧱 Guía Inicial](guia/towny/alcaldes/alcalde.md)
     * [💵 Precios](guia/towny/alcaldes/precios.md)
@@ -14,9 +14,10 @@
     * [👩✈ Rangos](guia/towny/alcaldes/rangos.md)
   * [🙋♀ Guía para Residentes](guia/towny/residentes/README.md)
     * [⏱ Comandos Residente](guia/towny/residentes/comandos-basicos.md)
-* [⚔ Guerras / SiegeWar](guia/towny/siegewar.md)
-  * [🚩 Cómo funciona](guia/siegewar/como-funciona.md)
-  * [🧭 Comandos SiegeWar](guia/siegewar/comandos-siegewar.md)
+  * [⚔ Guía SiegeWar](guia/towny/siegewar/README.md)
+    * [🚩 Cómo funciona](guia/towny/siegewar/como-funciona.md)
+    * [🧭 Comandos SiegeWar](guia/towny/siegewar/comandos-siegewar.md)
+  * [🏴☠ Guía FlagWar](guia/towny/guia-flagwar.md)
 * [🔔 Recompensas](guia/recompensas.md)
 * [🌟 Tienda Online](guia/tienda/README.md)
   * [⭐ Guía Vip](guia/tienda/vip.md)

@@ -12,8 +12,8 @@ Esta GUÍA te ayudará a entender TODO de CapitalMC 2!
 [towny](guia/towny/)
 {% endcontent-ref %}
 
-{% content-ref url="guia/towny/siegewar.md" %}
-[siegewar.md](guia/towny/siegewar.md)
+{% content-ref url="guia/towny/siegewar/" %}
+[siegewar](guia/towny/siegewar/)
 {% endcontent-ref %}
 
 {% content-ref url="guia/recompensas.md" %}
