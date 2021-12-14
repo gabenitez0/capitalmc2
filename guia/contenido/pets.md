@@ -16,7 +16,7 @@ Las mascotas son un excelente acompañante que pueden luchar, defenderte y lleva
 
 **La mayoría de mobs requieren de estar con baja vida y luego hacerles click con una Rienda en la mano.**&#x20;
 
-![Item Rienda](<../.gitbook/assets/image (2) (1) (1).png>)
+![Item Rienda](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Los mobs que ya son capturables en vanilla, como Lobos y Caballos, requieren que los tengas domesticados y luego hacerles click con un Rienda en la mano.
 
@@ -30,4 +30,4 @@ Los mobs que ya son capturables en vanilla, como Lobos y Caballos, requieren que
 
 La mascota debe tener la Habilidad Ride y luego simplemente deben hacerle click derecho con una Rienda.
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)

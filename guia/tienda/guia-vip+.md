@@ -1,3 +1,0 @@
-# 🌟 Guía Vip+
-
-En construcción...

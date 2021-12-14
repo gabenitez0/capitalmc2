@@ -4,7 +4,7 @@ description: >-
   y actualizaciones del servidor.
 ---
 
-# 🌟 Tienda Online
+# 🌟 Contenido Exclusivo
 
 **Todo el dinero recaudado es principalmente destinado al mantenimiento, mejoras y actualizaciones del servidor. Gracias a la tienda y a los compradores podemos seguir online y mejorando!**
 
@@ -14,14 +14,14 @@ Enlace a la Tienda Online
 
 **Guía para Donadores:**
 
-{% content-ref url="vip.md" %}
-[vip.md](vip.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="guia-vip+.md" %}
-[guia-vip+.md](guia-vip+.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="guia-battlepass.md" %}
-[guia-battlepass.md](guia-battlepass.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -1,13 +1,18 @@
 ---
-description: Minijuegos de CapitalMC
+description: >-
+  Minijuegos de CapitalMC. Puedes acceder a los Minijuegos simplemente con el
+  comando /minijuegos. Participa por estar en el TOP!
 ---
 
-# ✨ Parkour / Elytras
+# ✨ Minijuegos
 
-Puedes acceder a los Minijuegos simplemente con el comando **/minijuegos**
+![Menú minijuegos](<../.gitbook/assets/image (7).png>)
 
-Por el momento solo hay 3 mapas de Parkour y 3 mapas de Carrera Elytras.
+### Actualmente contamos con los minijuegos:
 
-Participa por estar en el TOP!
+* ****:crossed\_swords: **Kit PvP**: Duelos, Batallas y Clasificatorias.
+* ****:feet: **Parkour**: nuevos mapas!
+* ****:angel: **Elytras**: nuevos mapas!
+* ****:man\_running: **TNTRun**: nuevo minijuego!
 
-![](../.gitbook/assets/2021-11-05\_22.20.00.png)
+Puedes acceder a los Minijuegos simplemente con el comando **/minijuegos** dentro del servidor. **Participa por estar en el TOP!**
