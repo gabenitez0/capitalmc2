@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😄 Bienvenidos](README.md)
+* [😄 Guía CapitalMC 2](README.md)
 * [👋 Redes Sociales](redes-sociales.md)
 * [🛣 Roadmap](roadmap.md)
 
@@ -23,12 +23,12 @@
     * [🧭 Comandos SiegeWar](guia/siegewar/comandos-siegewar.md)
   * [🏴☠ Guía FlagWar](guia/towny/guia-flagwar.md)
 * [🤩 Contenido Adicional](guia/contenido/README.md)
-  * [🎁 Eventos](guia/contenido/eventos.md)
+  * [✨ Minijuegos](guia/contenido/minijuegos.md)
   * [⛏ Trabajos / Jobs](guia/jobs.md)
   * [🛒 Mercado](guia/mercado.md)
   * [🗄 Enderchest](guia/enderchest.md)
   * [🐴 Mascotas / Pets](guia/pets.md)
   * [🎧 Chat de Voz](guia/chat-de-voz.md)
-* [✨ Minijuegos](guia/minijuegos.md)
-* [🔔 Recompensas](guia/recompensas.md)
 * [🌟 Contenido Exclusivo](guia/tienda/README.md)
+* [🎁 Eventos](guia/eventos.md)
+* [🔔 Recompensas](guia/recompensas.md)

@@ -8,14 +8,14 @@ description: >-
 
 ### Minijuegos
 
-{% content-ref url="../minijuegos.md" %}
-[minijuegos.md](../minijuegos.md)
+{% content-ref url="minijuegos.md" %}
+[minijuegos.md](minijuegos.md)
 {% endcontent-ref %}
 
 ### Eventos
 
-{% content-ref url="eventos.md" %}
-[eventos.md](eventos.md)
+{% content-ref url="../eventos.md" %}
+[eventos.md](../eventos.md)
 {% endcontent-ref %}
 
 ### Sistema de Inventarios
