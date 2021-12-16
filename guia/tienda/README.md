@@ -11,17 +11,3 @@ description: >-
 {% embed url="https://capitalmc.craftingstore.net" %}
 Enlace a la Tienda Online
 {% endembed %}
-
-**Guía para Donadores:**
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
