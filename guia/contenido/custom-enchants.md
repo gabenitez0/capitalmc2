@@ -26,21 +26,21 @@ description: Aprende todo sobre los nuevos encantamientos personalizados!
 
 Hay varias formas de conseguirlos!&#x20;
 
-* Los puedes conseguir directamente en la mesa de encantamientos:
+* **Los puedes conseguir directamente en la mesa de encantamientos:**
 
 ![Mesa de encantamientos](<../../.gitbook/assets/image (14).png>)
 
-* Los puedes comprar a cambio de Exp (/enchanter):
+* **Los puedes comprar a cambio de Exp (/enchanter):**
 
 ![/enchanter](<../../.gitbook/assets/image (15).png>)
 
-* Puedes desencantar tus items a cambio de Exp (/tinkerer):
+* **Puedes desencantar tus items a cambio de Exp (/tinkerer):**
 
 ![/tinkerer](<../../.gitbook/assets/image (6).png>)
 
 * Tradeando con Aldeanos! (Próximamente)
 * Matando Mobs! (Próximamente)
-* Puedes adquirirlos como donación en la Tienda Online:
+* **Puedes adquirirlos como donación en la Tienda Online:**
 
 {% embed url="https://tienda.capitalmc2.xyz/category/188049" %}
 Encantamientos Avanzados
@@ -50,7 +50,9 @@ Encantamientos Avanzados
 
 ### Más características
 
-* Aumenta la probabilidad de éxito en un encantamiento![](<../../.gitbook/assets/image (3).png>)![](<../../.gitbook/assets/image (13).png>)
+* Aumenta la probabilidad de éxito en un encantamiento\
+  ![](<../../.gitbook/assets/image (3).png>)\
+  ![](<../../.gitbook/assets/image (13).png>)
 * Para ello debes intercambiarle al Tinkerer un encantamiento de la misma rareza, y te dará a cambio un Secret Dust, que al hacerle clic derecho te puede dar un Magic Dust que sirve para mejorar las probabilidades.
 
 ![Libro de encantamiento Legendario -> Secret Dust Legendario](<../../.gitbook/assets/image (12).png>)

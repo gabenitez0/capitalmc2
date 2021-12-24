@@ -8,7 +8,7 @@ description: >-
 
 **Con esta función tienes más lugar para llevar y guardar tus objetos y no perderlos al morir!**
 
-Abrir lista de Enderchests: **/sec**
+Abrir lista de Enderchests: **/ender**
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
