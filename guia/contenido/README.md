@@ -6,6 +6,12 @@ description: >-
 
 # 🤩 Contenido Adicional
 
+### Nuevo sistema de Encantamientos!
+
+{% content-ref url="custom-enchants.md" %}
+[custom-enchants.md](custom-enchants.md)
+{% endcontent-ref %}
+
 ### Minijuegos
 
 {% content-ref url="../minijuegos.md" %}
