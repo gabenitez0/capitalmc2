@@ -6,7 +6,7 @@ description: >-
 
 # ✨ Minijuegos
 
-![Menú minijuegos](<../../.gitbook/assets/image (7).png>)
+![Menú minijuegos](<../.gitbook/assets/image (7) (1).png>)
 
 ### Actualmente contamos con los minijuegos:
 

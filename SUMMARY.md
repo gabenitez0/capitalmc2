@@ -23,6 +23,7 @@
     * [🧭 Comandos SiegeWar](guia/siegewar/comandos-siegewar.md)
   * [🏴☠ Guía FlagWar](guia/towny/guia-flagwar.md)
 * [🤩 Contenido Adicional](guia/contenido/README.md)
+  * [⚡ Custom Enchants](guia/contenido/custom-enchants.md)
   * [⛏ Trabajos / Jobs](guia/jobs.md)
   * [🛒 Mercado](guia/mercado.md)
   * [🗄 Enderchest](guia/enderchest.md)

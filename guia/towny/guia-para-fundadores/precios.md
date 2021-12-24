@@ -19,4 +19,4 @@ _La nación no puede claimear chunks, eso es exclusivo de las ciudades. La Naci�
 
 **Cuando una Nación no puede pagar el costo de mantenimiento diario se borra sin previo aviso! no cae en bancarrota como la town sino que directamente se elimina.**
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)

@@ -4,7 +4,7 @@ description: Comercializa items con otros jugadores
 
 # 🛒 Mercado
 
-![Ventana de Mercado](<../.gitbook/assets/image (1) (1) (1).png>)
+![Ventana de Mercado](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 #### Comandos para utilizar el Mercado:
 
