@@ -10,7 +10,7 @@ Puedes abrir el menú de recompensas dentro del juego con: **/recompensas**
 
 ### Recompensas por Tiempo de Juego
 
-Ganarás recompensas simplemente por jugar y se te otorgarán automáticamente en forma de llaves que puedes reclamar en **/warp llaves**
+Cada hora que juegues en CapitalMC recibirás llaves que debes reclamar con el comando **/rewards**, luego puedes utilizar esas llaves en **/warp llaves**
 
 ![/warp llaves](../.gitbook/assets/2021-11-05\_22.01.31.png)
 
@@ -19,7 +19,7 @@ Ganarás recompensas simplemente por jugar y se te otorgarán automáticamente e
 Puedes votar al server con una tarea muy simple y recibir recompensas por ello, usa el comando **/vote** para ver los links.
 
 * [x] 1 Voto = Vip por 1 hora
-* [x] 5 Votos = Vip por 5 horas
+* [x] 4 Votos = Vip por 4 horas
 
 **¿Cómo hacer?**
 
