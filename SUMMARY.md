@@ -28,6 +28,7 @@
   * [🛒 Mercado](guia/mercado.md)
   * [🗄 Enderchest](guia/enderchest.md)
   * [🐴 Mascotas / Pets](guia/pets.md)
+  * [🗺 Mapa En Vivo](guia/contenido/mapa.md)
   * [🎧 Chat de Voz](guia/chat-de-voz.md)
 * [🌟 Contenido Exclusivo](guia/tienda/README.md)
 * [🎁 Eventos](guia/eventos.md)
