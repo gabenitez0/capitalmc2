@@ -1,16 +1,27 @@
 ---
 description: >-
-  FlagWar es un sistema de guerras de towny full pvp similar a factions. Los
-  Plots pueden ser capturados y saqueados por la fuerza simplemente colocando
-  una bandera y venciendo a la ciudad enemiga PvP.
+  FlagWar funciona de manera similar a un juego de estrategia, donde los
+  jugadores pueden capturar regiones de otras naciones y ciudades rápidamente.
 ---
 
 # 🏴☠ Guía FlagWar
 
-FlagWar es un sistema de guerras de towny full pvp similar a factions. Los Plots pueden ser capturados y saqueados por la fuerza simplemente colocando una bandera y venciendo a la ciudad enemiga PvP.
+FlagWar es uno de los primeros sistemas de guerra oficiales en el ecosistema Towny, que se remonta a 2011. FlagWar funciona de manera similar a un juego de estrategia, donde los jugadores pueden capturar regiones de otras naciones y ciudades rápidamente y con precisión milimétrica.
 
-**SiegeWar es capaz de robarte solamente dominio y recursos, en cambio, FlagWar es capaz incluso hasta de eliminar una ciudad entera durante la guerra.**
+### ¿Cómo atacar?
 
-**Este sistema de guerras se utilizará en los nuevos mapas del Espacio! Prepárate para el PvP ya que daremos premios incluso en dinero real para los mejores!**
+1. Debes ser dueño de una Nación y declarar como enemigo a la nación que pretendes atacar. Utiliza el comando: /n enemy add \<nacion>
+2. Deben estar conectados al menos 3 jugadores en ambas naciones para que se pueda realizar un ataque.
+3. Simplemente debes colocar una Oak Fence en un chunk de la ciudad enemiga a la que quieres atacar. Solo puedes atacar por los bordes!
+4. Cuando coloques la Oak Fence aparecerá una Lana encima, debes defender esa "bandera" sin que la destruya la ciudad defensora durante 1 minuto.
+5. **Si logras mantener esa bandera durante 1 minuto en el chunk enemigo, conquistarás ese chunk y pasará a pertenecer a tu ciudad!**
 
-Próximamente se dará más información sobre el sistema.
+### Mapas
+
+Actualmente este modo de guerra está activado en el **Planeta Gliese 1.18**.
+
+![Planeta Gliese 667 Cc](<../../.gitbook/assets/image (3).png>)
+
+{% embed url="https://map.capitalmc2.xyz" %}
+Mapa Online en Vivo
+{% endembed %}

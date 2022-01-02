@@ -45,7 +45,7 @@ Puedes votar al server con una tarea muy simple y recibir recompensas por ello, 
 
 1.  Crear un enlace de invitación al Discord de CapitalMC 2.
 
-    ![](<../.gitbook/assets/image (3) (1).png>)
+    ![](<../.gitbook/assets/image (3) (1) (1).png>)
 2. **Compartir el enlace** en grupos de facebook, instagram, discord, amigos o cualquier lugar donde puedan accederlo otros jugadores de minecraft.
 3.  Puedes ver las invitaciones que tienes escribiendo **/invites** en el Discord. También puedes ver el Top con **/leaderboard**.
 

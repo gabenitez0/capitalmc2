@@ -51,7 +51,7 @@ Encantamientos Avanzados
 ### Más características
 
 * Aumenta la probabilidad de éxito en un encantamiento\
-  ![](<../../.gitbook/assets/image (3).png>)\
+  ![](<../../.gitbook/assets/image (3) (1).png>)\
   ![](<../../.gitbook/assets/image (13).png>)
 * Para ello debes intercambiarle al Tinkerer un encantamiento de la misma rareza, y te dará a cambio un Secret Dust, que al hacerle clic derecho te puede dar un Magic Dust que sirve para mejorar las probabilidades.
 
