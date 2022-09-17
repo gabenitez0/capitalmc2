@@ -1,12 +1,12 @@
 ---
 description: >-
-  Bienvenido a CapitalMC 2! esta guía te ayudará a entender todo el
+  Bienvenido a CapitalMC Network! esta guía te ayudará a entender todo el
   funcionamiento y el contenido del servidor!
 ---
 
-# 😄 Guía CapitalMC 2
+# 😄 Guía CapitalMC Network
 
-**Bienvenido a CapitalMC 2! esta guía te ayudará a entender todo el funcionamiento y el contenido del servidor!**
+**Bienvenido a CapitalMC Network! esta guía te ayudará a entender todo el funcionamiento y el contenido del servidor!**
 
 ### Guías disponibles
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😄 Guía CapitalMC 2](README.md)
+* [😄 Guía CapitalMC Network](README.md)
 * [👋 Redes Sociales](redes-sociales.md)
 * [🛣 Roadmap](roadmap.md)
 
